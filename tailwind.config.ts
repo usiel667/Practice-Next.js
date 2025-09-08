@@ -17,6 +17,9 @@ const config: Config = {
           500: '#0070F3',
           600: '#2F6FEB',
         },
+        custom: {
+          orange: 'oklch(44.4% 0.177 26.899)',
+        },
       },
     },
     keyframes: {
