@@ -14,8 +14,8 @@ export default function Page() {
           priority={true}
           src="/next_white.svg"
           alt="Next.js Logo"
-          width={0}
-          height={0}
+          width={400}
+          height={200}
           //fill={true}
           className="w-auto h-auto max-w-sm max-h-64 drop-shadow-lg"
         />

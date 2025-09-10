@@ -107,12 +107,12 @@ export default function Design() {
               />
             </div>
             <div className="p-8">
-              <div className="text-sm font-semibold tracking-wide text-indigo-500 uppercase">
+              <div className="text-sm font-semibold tracking-wide text-custom-orange uppercase">
                 Company retreats
               </div>
               <a
                 href="#"
-                className="mt-1 block text-lg leading-tight font-medium text-black hover:underline"
+                className="mt-1 block text-lg leading-tight font-medium text-indigo-500 hover:underline"
               >
                 Incredible accommodation for your team
               </a>
