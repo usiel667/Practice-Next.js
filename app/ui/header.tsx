@@ -158,7 +158,10 @@ export default function Header() {
           >
             Design
           </Link>
-          <Link href="#" className="text-sm/6 font-semibold text-custom-orange">
+          <Link
+            href="/company"
+            className="text-sm/6 font-semibold text-custom-orange"
+          >
             Company
           </Link>
         </PopoverGroup>
